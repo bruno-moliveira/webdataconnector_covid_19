@@ -1,0 +1,15 @@
+body {
+    top:0;
+    margin: 0;
+    padding: 0;
+    background-position:0 0;
+    background-size: 100%;
+    background-image: url(https://bruno-moliveira.neocities.org/img/background_vector.jpg);
+}
+
+
+.text-center col-md-4 col-md-offset-4 {
+ z-index: 15;
+ position:fixed;
+
+}
